@@ -1,4 +1,4 @@
-﻿$Filepath = Get-Item -path "C:\Users\Empower\Documents\trail" -Force   
+﻿$Filepath = Get-Item -path "D:\temp" -Force   
  $Filepath.Attributes = "System,Hidden,ReadOnly"
 
  
